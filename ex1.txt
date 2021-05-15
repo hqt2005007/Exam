@@ -1,0 +1,2 @@
+1.
+Function lambda là Function được định nghĩa không tên và được định nghĩa bằng lambda thay vì def

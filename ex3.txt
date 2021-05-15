@@ -1,0 +1,1 @@
+Là hai loại tham số truyền vào function , cho phép function lý giải các tham số truyền vào bên trong
